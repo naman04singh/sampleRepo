@@ -11,3 +11,11 @@ public interface HelloService {
     public String getRepositoryName();
 
 }
+
+public class HelloService
+{
+	public static void main()
+	{
+		System.out.println("Hello maven!!!");
+	}
+}
